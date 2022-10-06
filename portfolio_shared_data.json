@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "name": "Pedro Rivero",
+    "footer_name": "Pedro Daniel Rivero Romero",
+    "titles": [
+      "Fullstack Developer",
+      "Software Engineer",
+      "Dev Team lead"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/pedroriverove",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/pedroriverove",
+        "class": "fab fa-instagram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/pedroriverove",
+        "class": "fab fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pedroriverove",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "avatar.jpg"
+  },
+  "skills": {
+    "icons": {
+      "front": {
+        "basic": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "name": "BOOTSTRAP",
+            "class": "devicon-bootstrap-plain",
+            "level": "80"
+          },
+          {
+            "name": "JAVASCRIPT",
+            "class": "devicon-javascript-plain",
+            "level": "80"
+          },
+          {
+            "name": "JQUERY",
+            "class": "devicon-jquery-plain",
+            "level": "80"
+          }
+        ],
+        "advanced": [
+          {
+            "name": "VUEJS",
+            "class": "devicon-vuejs-plain",
+            "level": "95"
+          },
+          {
+            "name": "REACT",
+            "class": "devicon-react-original",
+            "level": "95"
+          },
+          {
+            "name": "TYPESCRIPT",
+            "class": "devicon-typescript-plain",
+            "level": "80"
+          },
+          {
+            "name": "WEBPACK",
+            "class": "devicon-webpack-plain",
+            "level": "80"
+          },
+          {
+            "name": "SASS",
+            "class": "devicon-sass-original",
+            "level": "80"
+          }
+        ]
+      },
+      "back": {
+        "basic": [
+          {
+            "name": "PHP",
+            "class": "devicon-php-plain",
+            "level": "95"
+          },
+          {
+            "name": "LARAVEL",
+            "class": "devicon-laravel-plain",
+            "level": "95"
+          },
+          {
+            "name": "YII PHP",
+            "class": "devicon-yii-plain",
+            "level": "80"
+          },
+          {
+            "name": "NODEJS",
+            "class": "devicon-nodejs-plain",
+            "level": "80"
+          },
+          {
+            "name": "NESTJS",
+            "class": "devicon-nestjs-plain",
+            "level": "80"
+          },
+          {
+            "name": "EXPRESSJS",
+            "class": "devicon-express-original",
+            "level": "80"
+          }
+        ],
+        "advanced": [
+          {
+            "name": "MYSQL",
+            "class": "devicon-mysql-plain",
+            "level": "95"
+          },
+          {
+            "name": "MONGODB",
+            "class": "devicon-mongodb-plain",
+            "level": "95"
+          },
+          {
+            "name": "POSTGRESQL",
+            "class": "devicon-postgresql-plain",
+            "level": "80"
+          },
+          {
+            "name": "DOCKER",
+            "class": "devicon-docker-plain",
+            "level": "80"
+          }
+        ]
+      },
+      "tools": [
+        {
+          "name": "GIT",
+          "class": "devicon-git-plain",
+          "level": "95"
+        },
+        {
+          "name": "GITHUB",
+          "class": "devicon-github-original",
+          "level": "95"
+        },
+        {
+          "name": "GITLAB",
+          "class": "devicon-gitlab-plain",
+          "level": "80"
+        },
+        {
+          "name": "BITBUCKET",
+          "class": "devicon-bitbucket-original",
+          "level": "80"
+        },
+        {
+          "name": "SLACK",
+          "class": "devicon-slack-plain",
+          "level": "80"
+        },
+        {
+          "name": "JIRA",
+          "class": "devicon-jira-plain",
+          "level": "80"
+        }
+      ]
+    }
+  }
+}
