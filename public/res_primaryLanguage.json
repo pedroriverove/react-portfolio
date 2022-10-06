@@ -1,0 +1,115 @@
+{
+    "basic_info": {
+      "description_header": "Hola",
+      "description": "👋 Soy un programador web con más de 6 años de experiencia, desempeñándome como full-stack developer en diferentes tecnologías. Para el back-end, uso principalmente PHP, NESTJS y EXPRESSJS. Adicionalmente trabajo en el front-end con REACT y VUEJS. El resto es historia, puedes revisar mi experiencia laboral reciente y mis habilidades para conocer más detalles.",
+      "section_name": {
+        "about": "Sobre mí",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
+      }
+    },
+    "experience": [
+      {
+        "company": "KYCredit",
+        "title": "Ssr. Fullstack Developer",
+        "years": "sept. 2020 - feb. 2022",
+        "mainTech": [
+          "NESTJS",
+          "VUEJS"
+        ],
+        "technologies": [
+          "BOOTSTRAP",
+          "JAVASCRIPT",
+          "SASS",
+          "WEBPACK",
+          "TYPESCRIPT",
+          "PHP",
+          "LARAVEL",
+          "PYTHON",
+          "MYSQL",
+          "DOCKER",
+          "GIT",
+          "BITBUCKET",
+          "JIRA",
+          "SLACK"
+        ]
+      },
+      {
+        "company": "Summa Investment Solutions S.A",
+        "title": "Ssr. PHP Developer",
+        "years": "feb. 2019 - sep. 2020",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "BOOTSTRAP",
+          "JAVASCRIPT",
+          "WEBPACK",
+          "PHP",
+          "LARAVEL",
+          "MYSQL",
+          "GIT",
+          "BITBUCKET",
+          "JIRA",
+          "SLACK"
+        ]
+      },
+      {
+        "company": "Agrauco",
+        "title": "CO-Founder",
+        "years": "sep. 2017 - ene. 2019",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "MATERIAL DESIGN",
+          "JAVASCRIPT",
+          "JQUERY",
+          "PHP",
+          "YII PHP",
+          "MYSQL",
+          "MONGODB",
+          "GIT",
+          "GITLAB",
+          "SLACK"
+        ]
+      },
+      {
+        "company": "Dindon",
+        "title": "Jr. PHP Developer",
+        "years": "sept. 2016 - sep. 2017",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "MATERIAL DESIGN",
+          "JAVASCRIPT",
+          "JQUERY",
+          "PHP",
+          "YII PHP",
+          "MYSQL",
+          "GIT",
+          "GITLAB"
+        ]
+      },
+      {
+        "company": "Gobierno del Distrito Capita",
+        "title": "Jr. PHP Developer",
+        "years": "abr. 2015 - sep. 2016",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "BOOTSTRAP",
+          "JAVASCRIPT",
+          "JQUERY",
+          "PHP",
+          "YII PHP",
+          "MYSQL",
+          "POSTGRESQL",
+          "GIT",
+          "BITBUCKET"
+        ]
+      }
+    ]
+  }
