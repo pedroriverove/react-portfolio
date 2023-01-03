@@ -36,11 +36,11 @@ class About extends Component {
 										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
 									/>
                   <Icon
-										icon={nestjsIcon}
+										icon={vueIcon}
 										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
 									/>
                   <Icon
-										icon={vueIcon}
+										icon={nestjsIcon}
 										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
 									/>
                   <Icon
