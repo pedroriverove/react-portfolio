@@ -4,8 +4,7 @@
     "footer_name": "Pedro Daniel Rivero Romero",
     "titles": [
       "Fullstack Developer",
-      "Software Engineer",
-      "Dev Team lead"
+      "Software Engineer"
     ],
     "social": [
       {
@@ -54,14 +53,14 @@
             "name": "JAVASCRIPT",
             "class": "devicon-javascript-plain",
             "level": "80"
-          },
-          {
-            "name": "JQUERY",
-            "class": "devicon-jquery-plain",
-            "level": "80"
           }
         ],
         "advanced": [
+          {
+            "name": "TYPESCRIPT",
+            "class": "devicon-typescript-plain",
+            "level": "80"
+          },
           {
             "name": "VUEJS",
             "class": "devicon-vuejs-plain",
@@ -71,11 +70,6 @@
             "name": "REACT",
             "class": "devicon-react-original",
             "level": "95"
-          },
-          {
-            "name": "TYPESCRIPT",
-            "class": "devicon-typescript-plain",
-            "level": "80"
           },
           {
             "name": "WEBPACK",
@@ -107,18 +101,8 @@
             "level": "80"
           },
           {
-            "name": "NODEJS",
-            "class": "devicon-nodejs-plain",
-            "level": "80"
-          },
-          {
             "name": "NESTJS",
             "class": "devicon-nestjs-plain",
-            "level": "80"
-          },
-          {
-            "name": "EXPRESSJS",
-            "class": "devicon-express-original",
             "level": "80"
           }
         ],

@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hola",
-      "description": "👋 Soy un programador web con más de 6 años de experiencia, desempeñándome como full-stack developer en diferentes tecnologías. Para el back-end, uso principalmente PHP, NESTJS y EXPRESSJS. Adicionalmente trabajo en el front-end con REACT y VUEJS. El resto es historia, puedes revisar mi experiencia laboral reciente y mis habilidades para conocer más detalles.",
+      "description": "👋 Soy un programador web con más de 7 años de experiencia, desempeñándome como full-stack developer en diferentes tecnologías. Para el back-end, uso principalmente PHP, LARAVEL y NESTJS. Adicionalmente trabajo en el front-end con VUEJS y REACT. El resto es historia, puedes revisar mi experiencia laboral reciente y mis habilidades para conocer más detalles.",
       "section_name": {
         "about": "Sobre mí",
         "skills": "Habilidades",
@@ -10,28 +10,55 @@
     },
     "experience": [
       {
+        "company": "Keiron",
+        "title": "Ssr. Fullstack Developer",
+        "years": "mar. 2022 - dic. 2022",
+        "mainTech": [
+          "JAVASCRIPT",
+          "MYSQL",
+          "NESTJS",
+          "POSTGRESQL",
+          "REACT"
+        ],
+        "technologies": [
+          "GIT",
+          "GITHUB",
+          "JAVASCRIPT",
+          "JIRA",
+          "MYSQL",
+          "NESTJS",
+          "POSTGRESQL",
+          "REACT",
+          "SLACK",
+          "TYPESCRIPT"
+        ]
+      },
+      {
         "company": "KYCredit",
         "title": "Ssr. Fullstack Developer",
         "years": "sept. 2020 - feb. 2022",
         "mainTech": [
-          "NESTJS",
+          "LARAVEL",
+          "MYSQL",
+          "PHP",
+          "TYPESCRIPT",
           "VUEJS"
         ],
         "technologies": [
+          "BITBUCKET",
           "BOOTSTRAP",
-          "JAVASCRIPT",
-          "SASS",
-          "WEBPACK",
-          "TYPESCRIPT",
-          "PHP",
-          "LARAVEL",
-          "PYTHON",
-          "MYSQL",
           "DOCKER",
           "GIT",
-          "BITBUCKET",
+          "JAVASCRIPT",
           "JIRA",
-          "SLACK"
+          "LARAVEL",
+          "MYSQL",
+          "PHP",
+          "SASS",
+          "SLACK",
+          "TYPESCRIPT",
+          "VUEJS",
+          "WEBPACK"
         ]
       },
       {
@@ -39,19 +66,22 @@
         "title": "Ssr. PHP Developer",
         "years": "feb. 2019 - sep. 2020",
         "mainTech": [
+          "JAVASCRIPT",
+          "LARAVEL",
+          "MYSQL",
           "PHP"
         ],
         "technologies": [
+          "BITBUCKET",
           "BOOTSTRAP",
+          "GIT",
           "JAVASCRIPT",
-          "WEBPACK",
-          "PHP",
+          "JIRA",
           "LARAVEL",
           "MYSQL",
-          "GIT",
-          "BITBUCKET",
-          "JIRA",
-          "SLACK"
+          "PHP",
+          "SLACK",
+          "WEBPACK"
         ]
       },
       {
@@ -59,19 +89,22 @@
         "title": "CO-Founder",
         "years": "sep. 2017 - ene. 2019",
         "mainTech": [
+          "JAVASCRIPT",
+          "LARAVEL",
+          "MONGODB",
           "PHP"
         ],
         "technologies": [
-          "MATERIAL DESIGN",
-          "JAVASCRIPT",
-          "JQUERY",
-          "PHP",
-          "YII PHP",
-          "MYSQL",
-          "MONGODB",
           "GIT",
           "GITLAB",
-          "SLACK"
+          "JAVASCRIPT",
+          "JQUERY",
+          "MATERIAL DESIGN",
+          "MONGODB",
+          "MYSQL",
+          "PHP",
+          "SLACK",
+          "YII"
         ]
       },
       {
@@ -79,17 +112,20 @@
         "title": "Jr. PHP Developer",
         "years": "sept. 2016 - sep. 2017",
         "mainTech": [
-          "PHP"
+          "JAVASCRIPT",
+          "MYSQL",
+          "PHP",
+          "YII"
         ],
         "technologies": [
-          "MATERIAL DESIGN",
+          "GIT",
+          "GITLAB",
           "JAVASCRIPT",
           "JQUERY",
-          "PHP",
-          "YII PHP",
+          "MATERIAL DESIGN",
           "MYSQL",
-          "GIT",
-          "GITLAB"
+          "PHP",
+          "YII"
         ]
       },
       {
@@ -97,18 +133,21 @@
         "title": "Jr. PHP Developer",
         "years": "abr. 2015 - sep. 2016",
         "mainTech": [
-          "PHP"
+          "MYSQL",
+          "PHP",
+          "POSTGRESQL",
+          "YII"
         ],
         "technologies": [
+          "BITBUCKET",
           "BOOTSTRAP",
+          "GIT",
           "JAVASCRIPT",
           "JQUERY",
-          "PHP",
-          "YII PHP",
           "MYSQL",
+          "PHP",
           "POSTGRESQL",
-          "GIT",
-          "BITBUCKET"
+          "YII"
         ]
       }
     ]
