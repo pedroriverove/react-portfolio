@@ -30,7 +30,8 @@ $ npm start
 ## Scripts
 
 - `npm start` — Launches the app in development mode on [`http://localhost:3000`](http://localhost:3000/)
-- `npm build` — Compiles and bundles the app for deployment
+- `npm run build` — Compiles and bundles the app
+- `npm run deploy` — Deployment
 
 ## Credits
 
