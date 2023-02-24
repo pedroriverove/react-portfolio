@@ -1,6 +1,6 @@
-# React portfolio
+# React | Portfolio
 
-### Used technology:
+## Used technology
 
 - [React](https://reactjs.org/)
 - [Sass](https://sass-lang.com/)
