@@ -1,7 +1,9 @@
 import React, {Component} from "react";
-import nestjsIcon from '@iconify/icons-logos/nestjs';
+import nestjsIcon from "@iconify/icons-logos/nestjs";
+import nodeIcon from "@iconify/icons-logos/nodejs";
 import phpIcon from "@iconify/icons-logos/php";
-import reactIcon from "@iconify/icons-logos/react";
+import scriptIcon from "@iconify/icons-logos/javascript";
+import typeIcon from "@iconify/icons-logos/typescript-icon-round";
 import vueIcon from "@iconify/icons-logos/vue";
 import {Icon} from "@iconify/react";
 
@@ -38,7 +40,19 @@ class About extends Component {
 										alt="Avatar placeholder"
 									/>
                   <Icon
+										icon={scriptIcon}
+										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
+									/>
+                  <Icon
 										icon={phpIcon}
+										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
+									/>
+                  <Icon
+										icon={nodeIcon}
+										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
+									/>
+                  <Icon
+										icon={typeIcon}
 										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
 									/>
                   <Icon
@@ -47,10 +61,6 @@ class About extends Component {
 									/>
                   <Icon
 										icon={nestjsIcon}
-										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
-									/>
-                  <Icon
-										icon={reactIcon}
 										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
 									/>
                 </span>
