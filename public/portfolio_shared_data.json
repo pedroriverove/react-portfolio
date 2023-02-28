@@ -50,20 +50,35 @@
             "level": "80"
           },
           {
-            "name": "JAVASCRIPT",
-            "class": "devicon-javascript-plain",
+            "name": "VUETIFY",
+            "class": "devicon-vuetify-line",
+            "level": "80"
+          },
+          {
+            "name": "TAILWIND",
+            "class": "devicon-tailwindcss-plain",
             "level": "80"
           }
         ],
         "advanced": [
+          {
+            "name": "JAVASCRIPT",
+            "class": "devicon-javascript-plain",
+            "level": "80"
+          },
           {
             "name": "TYPESCRIPT",
             "class": "devicon-typescript-plain",
             "level": "80"
           },
           {
-            "name": "VUEJS",
+            "name": "VUE",
             "class": "devicon-vuejs-plain",
+            "level": "95"
+          },
+          {
+            "name": "NUXT",
+            "class": "devicon-nuxtjs-plain",
             "level": "95"
           },
           {
@@ -72,9 +87,9 @@
             "level": "95"
           },
           {
-            "name": "WEBPACK",
-            "class": "devicon-webpack-plain",
-            "level": "80"
+            "name": "ANGULAR",
+            "class": "devicon-angularjs-plain",
+            "level": "95"
           },
           {
             "name": "SASS",
@@ -96,8 +111,13 @@
             "level": "95"
           },
           {
-            "name": "YII PHP",
-            "class": "devicon-yii-plain",
+            "name": "LUMEN",
+            "class": "devicon-laravel-plain",
+            "level": "95"
+          },
+          {
+            "name": "NODEJS",
+            "class": "devicon-nodejs-plain",
             "level": "80"
           },
           {
@@ -141,23 +161,23 @@
           "level": "95"
         },
         {
-          "name": "GITLAB",
-          "class": "devicon-gitlab-plain",
-          "level": "80"
-        },
-        {
           "name": "BITBUCKET",
           "class": "devicon-bitbucket-original",
           "level": "80"
         },
         {
-          "name": "SLACK",
-          "class": "devicon-slack-plain",
+          "name": "GITLAB",
+          "class": "devicon-gitlab-plain",
           "level": "80"
         },
         {
           "name": "JIRA",
           "class": "devicon-jira-plain",
+          "level": "80"
+        },
+        {
+          "name": "SLACK",
+          "class": "devicon-slack-plain",
           "level": "80"
         }
       ]

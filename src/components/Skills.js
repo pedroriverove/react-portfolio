@@ -106,21 +106,21 @@ class Skills extends Component {
 					</div>
 					<div className="col-md-12 text-center">
 						<h2>
-							<span className="text-white">Front-end</span>
+							<span className="text-white">Frontend</span>
 						</h2>
 						<ul className="list-inline mx-auto skill-icon">{frontBasic}</ul>
 						<ul className="list-inline mx-auto skill-icon">{frontAdvanced}</ul>
 					</div>
 					<div className="col-md-12 text-center pt-3">
 						<h2>
-							<span className="text-white">Back-end</span>
+							<span className="text-white">Backend</span>
 						</h2>
 						<ul className="list-inline mx-auto skill-icon">{backBasic}</ul>
 						<ul className="list-inline mx-auto skill-icon">{backAdvanced}</ul>
 					</div>
 					<div className="col-md-12 text-center pt-3">
 						<h2>
-							<span className="text-white">Tecnologías</span>
+							<span className="text-white">Repository</span>
 						</h2>
 						<ul className="list-inline mx-auto skill-icon">{tools}</ul>
 					</div>
