@@ -1,154 +1,160 @@
 {
-    "basic_info": {
-      "description_header": "Hola",
-      "description": "👋 Soy un programador web con más de 7 años de experiencia, desempeñándome como full-stack developer en diferentes tecnologías. Para el back-end, uso principalmente PHP, LARAVEL y NESTJS. Adicionalmente trabajo en el front-end con VUEJS y REACT. El resto es historia, puedes revisar mi experiencia laboral reciente y mis habilidades para conocer más detalles.",
-      "section_name": {
-        "about": "Sobre mí",
-        "skills": "Habilidades",
-        "experience": "Experiencia"
-      }
+  "basic_info": {
+    "description_header": "¡Hola!",
+    "description": "Mi nombre es Pedro Rivero. Soy Fullstack Developer con más de 7 años de experiencia, durante este tiempo, he trabajado en todas las capas de códigos, desde la base de datos hasta la interfaz de usuario. También he estado involucrado en todas las etapas del ciclo de vida de un producto, desde la conceptualización y el diseño hasta la implementación en producción y soporte.",
+    "segments": {
+      "back": "✅ En el desarrollo back-end, uso principalmente PHP, LARAVEL, NodeJS, NestJS.",
+      "front": "✅ Para el desarrollo front-end, uso principalmente JavaScript, TypeScript, VueJS, Nuxt, React.",
+      "database": "✅ Capacidad de análisis, definición y optimización de bases de datos SQL y NoSQL.",
+      "solid": "✅ Aplico principios SOLID, POO, TDD, DDD. Estoy acostumbrado a trabajar en equipos de alto rendimiento, escribiendo código escalable.",
+      "git": "✅ Manejo de control de versiones con GIT.",
+      "scrum": "✅ Experiencia trabajando con SCRUM como metodología ágil."
     },
-    "experience": [
-      {
-        "company": "Keiron",
-        "title": "Ssr. Fullstack Developer",
-        "years": "mar. 2022 - dic. 2022",
-        "mainTech": [
-          "JAVASCRIPT",
-          "MYSQL",
-          "NESTJS",
-          "POSTGRESQL",
-          "REACT"
-        ],
-        "technologies": [
-          "GIT",
-          "GITHUB",
-          "JAVASCRIPT",
-          "JIRA",
-          "MYSQL",
-          "NESTJS",
-          "POSTGRESQL",
-          "REACT",
-          "SLACK",
-          "TYPESCRIPT"
-        ]
-      },
-      {
-        "company": "KYCredit",
-        "title": "Ssr. Fullstack Developer",
-        "years": "sept. 2020 - feb. 2022",
-        "mainTech": [
-          "LARAVEL",
-          "MYSQL",
-          "PHP",
-          "TYPESCRIPT",
-          "VUEJS"
-        ],
-        "technologies": [
-          "BITBUCKET",
-          "BOOTSTRAP",
-          "DOCKER",
-          "GIT",
-          "JAVASCRIPT",
-          "JIRA",
-          "LARAVEL",
-          "MYSQL",
-          "PHP",
-          "SASS",
-          "SLACK",
-          "TYPESCRIPT",
-          "VUEJS",
-          "WEBPACK"
-        ]
-      },
-      {
-        "company": "Summa Investment Solutions S.A",
-        "title": "Ssr. PHP Developer",
-        "years": "feb. 2019 - sep. 2020",
-        "mainTech": [
-          "JAVASCRIPT",
-          "LARAVEL",
-          "MYSQL",
-          "PHP"
-        ],
-        "technologies": [
-          "BITBUCKET",
-          "BOOTSTRAP",
-          "GIT",
-          "JAVASCRIPT",
-          "JIRA",
-          "LARAVEL",
-          "MYSQL",
-          "PHP",
-          "SLACK",
-          "WEBPACK"
-        ]
-      },
-      {
-        "company": "Agrauco",
-        "title": "CO-Founder",
-        "years": "sep. 2017 - ene. 2019",
-        "mainTech": [
-          "JAVASCRIPT",
-          "LARAVEL",
-          "MONGODB",
-          "PHP"
-        ],
-        "technologies": [
-          "GIT",
-          "GITLAB",
-          "JAVASCRIPT",
-          "JQUERY",
-          "MATERIAL DESIGN",
-          "MONGODB",
-          "MYSQL",
-          "PHP",
-          "SLACK",
-          "YII"
-        ]
-      },
-      {
-        "company": "Dindon",
-        "title": "Jr. PHP Developer",
-        "years": "sept. 2016 - sep. 2017",
-        "mainTech": [
-          "JAVASCRIPT",
-          "MYSQL",
-          "PHP",
-          "YII"
-        ],
-        "technologies": [
-          "GIT",
-          "GITLAB",
-          "JAVASCRIPT",
-          "JQUERY",
-          "MATERIAL DESIGN",
-          "MYSQL",
-          "PHP",
-          "YII"
-        ]
-      },
-      {
-        "company": "Gobierno del Distrito Capital",
-        "title": "Jr. PHP Developer",
-        "years": "abr. 2015 - sep. 2016",
-        "mainTech": [
-          "MYSQL",
-          "PHP",
-          "POSTGRESQL",
-          "YII"
-        ],
-        "technologies": [
-          "BITBUCKET",
-          "BOOTSTRAP",
-          "GIT",
-          "JAVASCRIPT",
-          "JQUERY",
-          "MYSQL",
-          "PHP",
-          "POSTGRESQL",
-          "YII"
-        ]
-      }
-    ]
-  }
+    "section_name": {
+      "about": "Sobre mí",
+      "skills": "Habilidades",
+      "experience": "Experiencia"
+    }
+  },
+  "experience": [
+    {
+      "company": "Keiron",
+      "title": "Ssr. Fullstack Developer",
+      "years": "mar. 2022 - dic. 2022 · 10 meses",
+      "mainTech": [
+        "MYSQL",
+        "NESTJS",
+        "NODEJS",
+        "POSTGRESQL",
+        "REACT",
+        "TYPESCRIPT"
+      ],
+      "technologies": [
+        "GIT",
+        "GITHUB",
+        "JAVASCRIPT",
+        "JIRA",
+        "MYSQL",
+        "NESTJS",
+        "POSTGRESQL",
+        "REACT",
+        "SCRUM",
+        "SLACK",
+        "TYPESCRIPT"
+      ]
+    },
+    {
+      "company": "KYCredit",
+      "title": "Sr. Fullstack Developer",
+      "years": "feb. 2019 - feb. 2022 · 3años 1 mes",
+      "mainTech": [
+        "LARAVEL",
+        "MYSQL",
+        "NESTJS",
+        "NODEJS",
+        "PHP",
+        "SCRUM",
+        "TYPESCRIPT",
+        "VUE2",
+        "VUE3"
+      ],
+      "technologies": [
+        "BITBUCKET",
+        "BOOTSTRAP",
+        "GIT",
+        "JAVASCRIPT",
+        "JIRA",
+        "LARAVEL",
+        "LUMEN",
+        "MYSQL",
+        "NESTJS",
+        "NODEJS",
+        "NUXT",
+        "PHP",
+        "SASS",
+        "SASS",
+        "SCRUM",
+        "SLACK",
+        "TYPESCRIPT",
+        "VUE2",
+        "VUE3",
+        "VUETIFY"
+      ]
+    },
+    {
+      "company": "Agrauco",
+      "title": "CO-Founder",
+      "years": "sep. 2017 - ene. 2019 · 1 año 5 meses",
+      "mainTech": [
+        "ANGULARJS",
+        "JAVASCRIPT",
+        "LARAVEL",
+        "MONGODB",
+        "MYSQL",
+        "NODEJS",
+        "PHP"
+      ],
+      "technologies": [
+        "ANGULARJS",
+        "BOOTSTRAP",
+        "GIT",
+        "GITLAB",
+        "JAVASCRIPT",
+        "JQUERY",
+        "LARAVEL",
+        "LUMEN",
+        "MATERIAL DESIGN",
+        "MONGODB",
+        "MYSQL",
+        "MYSQL",
+        "NODEJS",
+        "PHP",
+        "SCRUM"
+      ]
+    },
+    {
+      "company": "Dindon",
+      "title": "Jr. Fullstack Developer",
+      "years": "sep. 2016 - sep. 2017 · 1 año 1 mes",
+      "mainTech": [
+        "JAVASCRIPT",
+        "LARAVEL",
+        "MYSQL",
+        "PHP"
+      ],
+      "technologies": [
+        "GIT",
+        "GITLAB",
+        "JAVASCRIPT",
+        "JQUERY",
+        "LARAVEL",
+        "LUMEN",
+        "MATERIALIZE CSS",
+        "MYSQL",
+        "PHP"
+      ]
+    },
+    {
+      "company": "Gobierno del Distrito Capital",
+      "title": "Jr. PHP Developer",
+      "years": "abr. 2015 - sep. 2016 · 1 año 6 meses",
+      "mainTech": [
+        "MYSQL",
+        "PHP",
+        "POSTGRESQL",
+        "YII"
+      ],
+      "technologies": [
+        "BITBUCKET",
+        "BOOTSTRAP",
+        "GIT",
+        "JAVASCRIPT",
+        "JQUERY",
+        "MYSQL",
+        "PHP",
+        "POSTGRESQL",
+        "YII"
+      ]
+    }
+  ]
+}
