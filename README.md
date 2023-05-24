@@ -1,4 +1,4 @@
-# React | Portfolio
+# Portfolio
 
 ## Used technology
 
