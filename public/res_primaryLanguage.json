@@ -1,9 +1,9 @@
 {
   "basic_info": {
     "description_header": "¡Hola!",
-    "description": "Mi nombre es Pedro Rivero. Soy Fullstack Developer con más de 7 años de experiencia, durante este tiempo, he trabajado en todas las capas de códigos, desde la base de datos hasta la interfaz de usuario. También he estado involucrado en todas las etapas del ciclo de vida de un producto, desde la conceptualización y el diseño hasta la implementación en producción y soporte.",
+    "description": "Fullstack Developer con más de 8 años de experiencia, durante este tiempo, he trabajado en todas las capas de códigos, desde la base de datos hasta la interfaz de usuario. También he estado involucrado en todas las etapas del ciclo de vida de un producto, desde la conceptualización y el diseño hasta la implementación en producción y soporte.",
     "segments": {
-      "back": "✅ En el desarrollo back-end, uso principalmente PHP, LARAVEL, NodeJS, NestJS.",
+      "back": "✅ En el desarrollo back-end, uso principalmente PHP, LARAVEL, NodeJS, ExpressJS.",
       "front": "✅ Para el desarrollo front-end, uso principalmente JavaScript, TypeScript, VueJS, Nuxt, React.",
       "database": "✅ Capacidad de análisis, definición y optimización de bases de datos SQL y NoSQL.",
       "solid": "✅ Aplico principios SOLID, POO, TDD, DDD. Estoy acostumbrado a trabajar en equipos de alto rendimiento, escribiendo código escalable.",
@@ -23,7 +23,7 @@
       "years": "mar. 2022 - dic. 2022 · 10 meses",
       "mainTech": [
         "MYSQL",
-        "NESTJS",
+        "EXPRESSJS",
         "NODEJS",
         "POSTGRESQL",
         "REACT",
@@ -35,7 +35,7 @@
         "JAVASCRIPT",
         "JIRA",
         "MYSQL",
-        "NESTJS",
+        "EXPRESSJS",
         "POSTGRESQL",
         "REACT",
         "SCRUM",
@@ -50,7 +50,7 @@
       "mainTech": [
         "LARAVEL",
         "MYSQL",
-        "NESTJS",
+        "EXPRESSJS",
         "NODEJS",
         "PHP",
         "SCRUM",
@@ -67,7 +67,7 @@
         "LARAVEL",
         "LUMEN",
         "MYSQL",
-        "NESTJS",
+        "EXPRESSJS",
         "NODEJS",
         "NUXT",
         "PHP",
@@ -83,10 +83,9 @@
     },
     {
       "company": "Agrauco",
-      "title": "CO-Founder",
+      "title": "Team Leader",
       "years": "sep. 2017 - ene. 2019 · 1 año 5 meses",
       "mainTech": [
-        "ANGULARJS",
         "JAVASCRIPT",
         "LARAVEL",
         "MONGODB",
@@ -95,7 +94,6 @@
         "PHP"
       ],
       "technologies": [
-        "ANGULARJS",
         "BOOTSTRAP",
         "GIT",
         "GITLAB",

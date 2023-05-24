@@ -1,10 +1,8 @@
 import React, {Component} from "react";
-import nestjsIcon from "@iconify/icons-logos/nestjs";
 import nodeIcon from "@iconify/icons-logos/nodejs";
 import phpIcon from "@iconify/icons-logos/php";
 import scriptIcon from "@iconify/icons-logos/javascript";
 import typeIcon from "@iconify/icons-logos/typescript-icon-round";
-import vueIcon from "@iconify/icons-logos/vue";
 import {Icon} from "@iconify/react";
 
 class About extends Component {
@@ -53,14 +51,6 @@ class About extends Component {
 									/>
                   <Icon
 										icon={typeIcon}
-										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
-									/>
-                  <Icon
-										icon={vueIcon}
-										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
-									/>
-                  <Icon
-										icon={nestjsIcon}
 										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
 									/>
                 </span>

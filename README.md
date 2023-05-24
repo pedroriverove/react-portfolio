@@ -6,7 +6,7 @@
 - [Sass](https://sass-lang.com/)
 - [React Vertical](https://github.com/stephane-monnot/react-vertical-timeline)
 - [React Awesome Slider](https://github.com/rcaferati/react-awesome-slider)
-- [Iconify Design](https://iconify.design/icon-sets/?query=angular)
+- [Iconify Design](https://iconify.design)
 
 ## Requirements
 
