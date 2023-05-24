@@ -87,11 +87,6 @@
             "level": "95"
           },
           {
-            "name": "ANGULAR",
-            "class": "devicon-angularjs-plain",
-            "level": "95"
-          },
-          {
             "name": "SASS",
             "class": "devicon-sass-original",
             "level": "80"
@@ -121,8 +116,8 @@
             "level": "80"
           },
           {
-            "name": "NESTJS",
-            "class": "devicon-nestjs-plain",
+            "name": "EXPRESSJS",
+            "class": "devicon-express-original",
             "level": "80"
           }
         ],
