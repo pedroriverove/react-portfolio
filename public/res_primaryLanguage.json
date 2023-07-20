@@ -1,14 +1,14 @@
 {
   "basic_info": {
-    "description_header": "¡Hola!",
-    "description": "Full-Stack Developer altamente experimentado con más de 8 años de experiencia, enfocado en las mejores prácticas de programación y arquitecturas modernas. Experto en desarrollar soluciones integrales que abarcan el diseño, desarrollo y despliegue de aplicaciones robustas. Amplia experiencia en el diseño de arquitecturas escalables y el uso de metodologías ágiles. Destacado por mi habilidad para optimizar el rendimiento y la eficiencia de las aplicaciones, garantizando la entrega de productos de alta calidad.",
+    "description": "Sr. Software Engineer altamente experimentado con más de 8 años de experiencia, enfocado en las mejores prácticas de programación y arquitecturas modernas. Experto en desarrollar soluciones integrales que abarcan el diseño e implementación de sistemas robustos. Amplia experiencia en el diseño de arquitecturas escalables y el uso de metodologías ágiles. Destacado por mi habilidad para optimizar el rendimiento y la eficiencia de las aplicaciones web, garantizando la entrega de productos de alta calidad.",
     "segments": {
       "back": "✅ En el desarrollo back-end, uso principalmente PHP, LARAVEL, NodeJS, ExpressJS.",
-      "front": "✅ Para el desarrollo front-end, uso principalmente JavaScript, TypeScript, VueJS, Nuxt, React.",
       "database": "✅ Capacidad de análisis, definición y optimización de bases de datos SQL y NoSQL.",
-      "solid": "✅ Aplico principios SOLID, POO, TDD, DDD. Estoy acostumbrado a trabajar en equipos de alto rendimiento, escribiendo código escalable.",
+      "devops": "✅ Prácticas devops con Jira, Docker, Slack, GitHub Actions, AWS S3, Jenkins Pipeline, AWS Lambda.",
+      "front": "✅ Para el desarrollo front-end, uso principalmente JavaScript, TypeScript, VueJS, Nuxt, React.",
       "git": "✅ Manejo de control de versiones con GIT.",
-      "scrum": "✅ Experiencia trabajando con SCRUM como metodología ágil."
+      "scrum": "✅ Experiencia trabajando con SCRUM como metodología ágil.",
+      "solid": "✅ Aplico principios SOLID, POO, TDD, DDD. Estoy acostumbrado a trabajar en equipos de alto rendimiento, escribiendo código escalable."
     },
     "section_name": {
       "about": "Sobre mí",
@@ -18,140 +18,128 @@
   },
   "experience": [
     {
+      "company": "Crediminuto",
+      "title": "Sr. Software Engineer",
+      "years": "feb. 2023 - actualidad",
+      "technologies": [
+        "MariaDB",
+        "Redis",
+        "PHP",
+        "Laravel",
+        "Node.js",
+        "Express.js",
+        "TypeScript",
+        "Vue3",
+        "Nuxt.js",
+        "Tailwind",
+        "SASS",
+        "Docker",
+        "AWS S3",
+        "AWS Lambda",
+        "AWS CodeCommit",
+        "GitFlow",
+        "ClickUp",
+        "Metodología Scrum"
+      ]
+    },
+    {
       "company": "Keiron",
       "title": "Ssr. Full-Stack Developer",
       "years": "mar. 2022 - dic. 2022 · 10 meses",
-      "mainTech": [
-        "MYSQL",
-        "EXPRESSJS",
-        "NODEJS",
-        "POSTGRESQL",
-        "REACT",
-        "TYPESCRIPT"
-      ],
       "technologies": [
-        "GIT",
-        "GITHUB",
-        "JAVASCRIPT",
+        "MySQL",
+        "PostgreSQL",
+        "Node.js",
+        "Express.js",
+        "TypeScript",
+        "React.js",
+        "Next.js",
+        "Styled Components",
+        "Docker",
+        "GitHub Actions",
+        "GitHub",
+        "GitFlow",
         "JIRA",
-        "MYSQL",
-        "EXPRESSJS",
-        "POSTGRESQL",
-        "REACT",
-        "SCRUM",
-        "SLACK",
-        "TYPESCRIPT"
+        "Metodología Scrum"
       ]
     },
     {
       "company": "KYCredit",
       "title": "Sr. Full-Stack Developer",
       "years": "feb. 2019 - feb. 2022 · 3años 1 mes",
-      "mainTech": [
-        "LARAVEL",
-        "MYSQL",
-        "EXPRESSJS",
-        "NODEJS",
-        "PHP",
-        "SCRUM",
-        "TYPESCRIPT",
-        "VUE2",
-        "VUE3"
-      ],
       "technologies": [
-        "BITBUCKET",
-        "BOOTSTRAP",
-        "GIT",
-        "JAVASCRIPT",
-        "JIRA",
-        "LARAVEL",
-        "LUMEN",
-        "MYSQL",
-        "EXPRESSJS",
-        "NODEJS",
-        "NUXT",
+        "MySQL",
+        "MariaDB",
+        "Redis",
         "PHP",
+        "Laravel",
+        "Lumen",
+        "Node.js",
+        "Express.js",
+        "TypeScript",
+        "Vue2",
+        "Vue3",
+        "Nuxt.js",
+        "Vuetify",
+        "Bootstrap",
         "SASS",
-        "SASS",
-        "SCRUM",
-        "SLACK",
-        "TYPESCRIPT",
-        "VUE2",
-        "VUE3",
-        "VUETIFY"
+        "Docker",
+        "Jenkins Pipeline",
+        "AWS Lambda",
+        "Bitbucket",
+        "GitFlow",
+        "JIRA",
+        "Metodología Scrum"
       ]
     },
     {
       "company": "Agrauco",
-      "title": "Team Leader",
+      "title": "CO-Founder & Team Leader",
       "years": "sep. 2017 - ene. 2019 · 1 año 5 meses",
-      "mainTech": [
-        "JAVASCRIPT",
-        "LARAVEL",
-        "MONGODB",
-        "MYSQL",
-        "NODEJS",
-        "PHP"
-      ],
       "technologies": [
-        "BOOTSTRAP",
-        "GIT",
-        "GITLAB",
-        "JAVASCRIPT",
-        "JQUERY",
-        "LARAVEL",
-        "LUMEN",
-        "MATERIAL DESIGN",
-        "MONGODB",
-        "MYSQL",
-        "MYSQL",
-        "NODEJS",
+        "MongoDB",
+        "MySQL",
         "PHP",
-        "SCRUM"
+        "Laravel",
+        "Lumen",
+        "Node.js",
+        "Sails.js",
+        "JavaScript",
+        "jQuery",
+        "Material Design",
+        "Bootstrap",
+        "GitLab",
+        "GitFlow",
+        "Metodología Scrum"
       ]
     },
     {
       "company": "Dindon",
-      "title": "Jr. Full-Stack Developer",
+      "title": "Ssr. Full-Stack Developer",
       "years": "sep. 2016 - sep. 2017 · 1 año 1 mes",
-      "mainTech": [
-        "JAVASCRIPT",
-        "LARAVEL",
-        "MYSQL",
-        "PHP"
-      ],
       "technologies": [
-        "GIT",
-        "GITLAB",
-        "JAVASCRIPT",
-        "JQUERY",
-        "LARAVEL",
-        "LUMEN",
-        "MATERIALIZE CSS",
-        "MYSQL",
-        "PHP"
+        "MySQL",
+        "PHP",
+        "Laravel",
+        "JavaScript",
+        "jQuery",
+        "Material Design",
+        "GitLab"
       ]
     },
     {
       "company": "Gobierno del Distrito Capital",
       "title": "Jr. PHP Developer",
       "years": "abr. 2015 - sep. 2016 · 1 año 6 meses",
-      "mainTech": [
-        "MYSQL",
-        "PHP",
-        "POSTGRESQL",
-        "YII"
-      ],
       "technologies": [
-        "BITBUCKET",
-        "BOOTSTRAP",
-        "GIT",
-        "JAVASCRIPT",
-        "JQUERY",
-        "MYSQL",
+        "PostgreSQL",
+        "MySQL",
         "PHP",
-        "POSTGRESQL",
-        "YII"
+        "Yii2",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "Bitbucket"
       ]
     }
   ]

@@ -3,8 +3,8 @@
     "name": "Pedro Rivero",
     "footer_name": "Pedro Daniel Rivero Romero",
     "titles": [
-      "Full-Stack Developer",
-      "Software Engineer"
+      "Sr. Full-Stack Developer",
+      "Sr. Software Engineer"
     ],
     "social": [
       {
@@ -32,147 +32,177 @@
   },
   "skills": {
     "icons": {
-      "front": {
+      "backend": [
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "95"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain",
+          "level": "95"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "80"
+        },
+        {
+          "name": "Lumen",
+          "class": "devicon-laravel-plain",
+          "level": "95"
+        }
+      ],
+      "databases": [
+        {
+          "name": "MySQL",
+          "class": "devicon-mysql-plain",
+          "level": "95"
+        },
+        {
+          "name": "MariaDB",
+          "class": "devicon-mysql-plain",
+          "level": "95"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "95"
+        },
+        {
+          "name": "Redis",
+          "class": "devicon-redis-plain",
+          "level": "95"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "80"
+        }
+      ],
+      "devops": [
+        {
+          "name": "MySQL",
+          "class": "devicon-mysql-plain",
+          "level": "95"
+        },
+        {
+          "name": "MariaDB",
+          "class": "devicon-mysql-plain",
+          "level": "95"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "95"
+        },
+        {
+          "name": "Redis",
+          "class": "devicon-redis-plain",
+          "level": "95"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "80"
+        }
+      ],
+      "frontend": {
         "basic": [
           {
-            "name": "HTML 5",
+            "name": "HTML",
             "class": "devicon-html5-plain",
             "level": "95"
           },
           {
-            "name": "CSS 3",
+            "name": "CSS",
             "class": "devicon-css3-plain",
             "level": "95"
           },
           {
-            "name": "BOOTSTRAP",
+            "name": "Bootstrap",
             "class": "devicon-bootstrap-plain",
             "level": "80"
           },
           {
-            "name": "VUETIFY",
+            "name": "Vuetify",
             "class": "devicon-vuetify-line",
             "level": "80"
           },
           {
-            "name": "TAILWIND",
+            "name": "Tailwind",
             "class": "devicon-tailwindcss-plain",
             "level": "80"
           }
         ],
         "advanced": [
           {
-            "name": "JAVASCRIPT",
+            "name": "JavaScript",
             "class": "devicon-javascript-plain",
             "level": "80"
           },
           {
-            "name": "TYPESCRIPT",
-            "class": "devicon-typescript-plain",
-            "level": "80"
-          },
-          {
-            "name": "VUE",
+            "name": "Vue",
             "class": "devicon-vuejs-plain",
             "level": "95"
           },
           {
-            "name": "NUXT",
+            "name": "Sass",
+            "class": "devicon-sass-original",
+            "level": "80"
+          },
+          {
+            "name": "TypeScript",
+            "class": "devicon-typescript-plain",
+            "level": "80"
+          },
+          {
+            "name": "Nuxt",
             "class": "devicon-nuxtjs-plain",
             "level": "95"
           },
           {
-            "name": "REACT",
+            "name": "React",
             "class": "devicon-react-original",
             "level": "95"
           },
           {
-            "name": "SASS",
-            "class": "devicon-sass-original",
-            "level": "80"
+            "name": "Next",
+            "class": "devicon-nextjs-original",
+            "level": "95"
           }
         ]
       },
-      "back": {
-        "basic": [
-          {
-            "name": "PHP",
-            "class": "devicon-php-plain",
-            "level": "95"
-          },
-          {
-            "name": "LARAVEL",
-            "class": "devicon-laravel-plain",
-            "level": "95"
-          },
-          {
-            "name": "LUMEN",
-            "class": "devicon-laravel-plain",
-            "level": "95"
-          },
-          {
-            "name": "NODEJS",
-            "class": "devicon-nodejs-plain",
-            "level": "80"
-          },
-          {
-            "name": "EXPRESSJS",
-            "class": "devicon-express-original",
-            "level": "80"
-          }
-        ],
-        "advanced": [
-          {
-            "name": "MYSQL",
-            "class": "devicon-mysql-plain",
-            "level": "95"
-          },
-          {
-            "name": "MONGODB",
-            "class": "devicon-mongodb-plain",
-            "level": "95"
-          },
-          {
-            "name": "POSTGRESQL",
-            "class": "devicon-postgresql-plain",
-            "level": "80"
-          },
-          {
-            "name": "DOCKER",
-            "class": "devicon-docker-plain",
-            "level": "80"
-          }
-        ]
-      },
-      "tools": [
+      "git": [
         {
           "name": "GIT",
           "class": "devicon-git-plain",
           "level": "95"
         },
         {
-          "name": "GITHUB",
+          "name": "GitHub",
           "class": "devicon-github-original",
           "level": "95"
         },
         {
-          "name": "BITBUCKET",
+          "name": "Bitbucket",
           "class": "devicon-bitbucket-original",
           "level": "80"
         },
         {
-          "name": "GITLAB",
+          "name": "GitLab",
           "class": "devicon-gitlab-plain",
           "level": "80"
         },
         {
-          "name": "JIRA",
-          "class": "devicon-jira-plain",
-          "level": "80"
-        },
-        {
-          "name": "SLACK",
-          "class": "devicon-slack-plain",
+          "name": "AWS CodeCommit",
+          "class": "devicon-amazonwebservices-plain",
           "level": "80"
         }
       ]
