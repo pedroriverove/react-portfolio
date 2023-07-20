@@ -9,15 +9,6 @@ class Experience extends Component {
 			var sectionName = this.props.resumeBasicInfo.section_name.experience;
 			var work = this.props.resumeExperience.map(function (work, i) {
 				const technologies = work.technologies;
-				const mainTechnologies = work.mainTech;
-
-				var mainTech = mainTechnologies.map((technology, i) => {
-					return (
-						<Badge pill className="main-badge mr-2 mb-2" key={i}>
-							{technology}
-						</Badge>
-					);
-				});
 				var tech = technologies.map((technology, i) => {
 					return (
 						<Badge pill className="experience-badge mr-2 mb-2" key={i}>
@@ -37,9 +28,6 @@ class Experience extends Component {
 						icon={<i className="fab fa-dash experience-icon"></i>}
 						key={i}
 					>
-						<div style={{textAlign: "left", marginBottom: "4px"}}>
-							{mainTech}
-						</div>
 						<h3
 							className="vertical-timeline-element-title"
 							style={{textAlign: "left"}}

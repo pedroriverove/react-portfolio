@@ -1,8 +1,10 @@
 import React, {Component} from "react";
+import laravelSolid from "@iconify/icons-logos/laravel";
 import nodeIcon from "@iconify/icons-logos/nodejs";
 import phpIcon from "@iconify/icons-logos/php";
 import scriptIcon from "@iconify/icons-logos/javascript";
 import typeIcon from "@iconify/icons-logos/typescript-icon-round";
+import vueIcon from '@iconify/icons-logos/vue';
 import {Icon} from "@iconify/react";
 
 class About extends Component {
@@ -11,15 +13,15 @@ class About extends Component {
 			var profilepic = "images/" + this.props.sharedBasicInfo.image;
 		}
 		if (this.props.resumeBasicInfo) {
-			var sectionName = this.props.resumeBasicInfo.section_name.about;
-			var hello = this.props.resumeBasicInfo.description_header;
 			var about = this.props.resumeBasicInfo.description;
 			var back = this.props.resumeBasicInfo.segments.back;
-			var front = this.props.resumeBasicInfo.segments.front;
 			var database = this.props.resumeBasicInfo.segments.database;
-			var solid = this.props.resumeBasicInfo.segments.solid;
+			var devops = this.props.resumeBasicInfo.segments.devops;
+			var front = this.props.resumeBasicInfo.segments.front;
 			var git = this.props.resumeBasicInfo.segments.git;
 			var scrum = this.props.resumeBasicInfo.segments.scrum;
+			var sectionName = this.props.resumeBasicInfo.section_name.about;
+			var solid = this.props.resumeBasicInfo.segments.solid;
 		}
 
 		return (
@@ -38,11 +40,11 @@ class About extends Component {
 										alt="Avatar placeholder"
 									/>
                   <Icon
-										icon={scriptIcon}
+										icon={phpIcon}
 										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
 									/>
                   <Icon
-										icon={phpIcon}
+										icon={laravelSolid}
 										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
 									/>
                   <Icon
@@ -50,7 +52,15 @@ class About extends Component {
 										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
 									/>
                   <Icon
+										icon={scriptIcon}
+										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
+									/>
+                  <Icon
 										icon={typeIcon}
+										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
+									/>
+                  <Icon
+										icon={vueIcon}
 										style={{fontSize: "200%", margin: "9% 5% 0 5%"}}
 									/>
                 </span>
@@ -88,17 +98,17 @@ class About extends Component {
 										}}
 									>
 										<br/>
-										<span className="wave">{hello}</span>
-										<br/>
 										<br/>
 										{about}
 										<br/>
+										<br/>
+										{database}
 										<br/>
 										{back}
 										<br/>
 										{front}
 										<br/>
-										{database}
+										{devops}
 										<br/>
 										{solid}
 										<br/>

@@ -1,6 +1,7 @@
 import React, {Component} from "react";
 import Switch from "react-switch";
 import Typical from "react-typical";
+import DownloadCVButton from "./DownloadCVButton";
 
 class Header extends Component {
 	titles = [];
@@ -46,6 +47,9 @@ class Header extends Component {
 							</h1>
 							<div className="title-container">
 								<HeaderTitleTypeAnimation/>
+							</div>
+							<div className="mb-lg-4">
+								<DownloadCVButton/>
 							</div>
 							<Switch
 								checked={this.state.checked}
