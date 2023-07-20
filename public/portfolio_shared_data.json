@@ -88,28 +88,38 @@
       ],
       "devops": [
         {
-          "name": "MySQL",
-          "class": "devicon-mysql-plain",
+          "name": "Jira",
+          "class": "devicon-jira-plain",
           "level": "95"
         },
         {
-          "name": "MariaDB",
-          "class": "devicon-mysql-plain",
+          "name": "Docker",
+          "class": "devicon-docker-plain",
           "level": "95"
         },
         {
-          "name": "MongoDB",
-          "class": "devicon-mongodb-plain",
+          "name": "Slack",
+          "class": "devicon-slack-plain",
           "level": "95"
         },
         {
-          "name": "Redis",
-          "class": "devicon-redis-plain",
+          "name": "GitHub Actions",
+          "class": "devicon-github-original",
           "level": "95"
         },
         {
-          "name": "PostgreSQL",
-          "class": "devicon-postgresql-plain",
+          "name": "AWS S3",
+          "class": "devicon-amazonwebservices-original",
+          "level": "80"
+        },
+        {
+          "name": "Jenkins Pipeline",
+          "class": "devicon-jenkins-line",
+          "level": "95"
+        },
+        {
+          "name": "AWS Lambda",
+          "class": "devicon-amazonwebservices-original",
           "level": "80"
         }
       ],
