@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "description": "Sr. Software Engineer altamente experimentado con más de 8 años de experiencia, enfocado en las mejores prácticas de programación y arquitecturas modernas. Experto en desarrollar soluciones integrales que abarcan el diseño e implementación de sistemas robustos. Amplia experiencia en el diseño de arquitecturas escalables y el uso de metodologías ágiles. Destacado por mi habilidad para optimizar el rendimiento y la eficiencia de las aplicaciones web, garantizando la entrega de productos de alta calidad.",
+    "description": "Sr. Software Engineer altamente experimentado con más de 9 años de experiencia, enfocado en las mejores prácticas de programación y arquitecturas modernas. Experto en desarrollar soluciones integrales que abarcan el diseño e implementación de sistemas robustos. Amplia experiencia en el diseño de arquitecturas escalables y el uso de metodologías ágiles. Destacado por mi habilidad para optimizar el rendimiento y la eficiencia de las aplicaciones web, garantizando la entrega de productos de alta calidad.",
     "segments": {
       "back": "✅ En el desarrollo back-end, uso principalmente PHP, LARAVEL, NodeJS, ExpressJS.",
       "database": "✅ Capacidad de análisis, definición y optimización de bases de datos SQL y NoSQL.",
@@ -103,7 +103,6 @@
         "Laravel",
         "Lumen",
         "Node.js",
-        "Sails.js",
         "JavaScript",
         "jQuery",
         "Material Design",
