@@ -109,7 +109,7 @@
         },
         {
           "name": "AWS S3",
-          "class": "devicon-amazonwebservices-original",
+          "class": "devicon-amazonwebservices-plain",
           "level": "80"
         },
         {
@@ -119,7 +119,7 @@
         },
         {
           "name": "AWS Lambda",
-          "class": "devicon-amazonwebservices-original",
+          "class": "devicon-amazonwebservices-plain",
           "level": "80"
         }
       ],
@@ -184,7 +184,7 @@
           },
           {
             "name": "Next",
-            "class": "devicon-nextjs-original",
+            "class": "devicon-react-original",
             "level": "95"
           }
         ]
