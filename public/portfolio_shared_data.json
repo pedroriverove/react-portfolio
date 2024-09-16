@@ -3,7 +3,7 @@
     "name": "Pedro Rivero",
     "footer_name": "Pedro Daniel Rivero Romero",
     "titles": [
-      "Sr. Full-Stack Developer",
+      "Tech Lead",
       "Sr. Software Engineer"
     ],
     "social": [
@@ -34,27 +34,27 @@
     "icons": {
       "backend": [
         {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-original",
+          "level": "95"
+        },
+        {
+          "name": "Nest",
+          "class": "devicon-nestjs-original",
+          "level": "95"
+        },
+        {
           "name": "PHP",
           "class": "devicon-php-plain",
           "level": "95"
         },
         {
           "name": "Laravel",
-          "class": "devicon-laravel-plain",
-          "level": "95"
-        },
-        {
-          "name": "Node",
-          "class": "devicon-nodejs-plain",
-          "level": "80"
-        },
-        {
-          "name": "Express",
-          "class": "devicon-express-original",
-          "level": "80"
-        },
-        {
-          "name": "Lumen",
           "class": "devicon-laravel-plain",
           "level": "95"
         }
@@ -88,18 +88,8 @@
       ],
       "devops": [
         {
-          "name": "Jira",
-          "class": "devicon-jira-plain",
-          "level": "95"
-        },
-        {
           "name": "Docker",
           "class": "devicon-docker-plain",
-          "level": "95"
-        },
-        {
-          "name": "Slack",
-          "class": "devicon-slack-plain",
           "level": "95"
         },
         {
@@ -141,11 +131,6 @@
             "level": "80"
           },
           {
-            "name": "Vuetify",
-            "class": "devicon-vuetify-line",
-            "level": "80"
-          },
-          {
             "name": "Tailwind",
             "class": "devicon-tailwindcss-plain",
             "level": "80"
@@ -158,19 +143,14 @@
             "level": "80"
           },
           {
-            "name": "Vue",
-            "class": "devicon-vuejs-plain",
-            "level": "95"
-          },
-          {
-            "name": "Sass",
-            "class": "devicon-sass-original",
-            "level": "80"
-          },
-          {
             "name": "TypeScript",
             "class": "devicon-typescript-plain",
             "level": "80"
+          },
+          {
+            "name": "Vue",
+            "class": "devicon-vuejs-plain",
+            "level": "95"
           },
           {
             "name": "Nuxt",
