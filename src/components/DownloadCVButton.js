@@ -14,6 +14,7 @@ const DownloadCVButton = () => {
 	return (
 		<div className="d-grid gap-2">
 			<Button
+				className="outline-dark"
 				variant="outline-dark"
 				size="lg"
 				onClick={handleDownload}

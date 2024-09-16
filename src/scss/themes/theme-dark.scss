@@ -97,4 +97,16 @@ body[data-theme="dark"] {
   .close-icon {
     color: white;
   }
+
+  .outline-dark {
+    color: #fff;
+    border-color: #fff;
+    background-color: transparent;
+  }
+
+  .outline-dark:hover {
+    background-color: #fff;
+    color: #000;
+    border-color: #fff;
+  }
 }
