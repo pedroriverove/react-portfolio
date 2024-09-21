@@ -1,7 +1,6 @@
 import React, {Component} from "react";
 import laravelSolid from "@iconify/icons-logos/laravel";
-import pythonIcon from "@iconify/icons-logos/python";
-import flaskIcon from "@iconify/icons-logos/flask";
+import nodeIcon from "@iconify/icons-logos/nodejs";
 import nestIcon from "@iconify/icons-logos/nestjs";
 import phpIcon from "@iconify/icons-logos/php";
 import scriptIcon from "@iconify/icons-logos/javascript";
@@ -43,11 +42,7 @@ class About extends Component {
                                       className="img-fluid"
                                   />
                                   <Icon
-                                      icon={pythonIcon}
-                                      style={{fontSize: "200%", margin: "10% 5% 0 5%"}}
-                                  />
-                                  <Icon
-                                      icon={flaskIcon}
+                                      icon={nodeIcon}
                                       style={{fontSize: "200%", margin: "10% 5% 0 5%"}}
                                   />
                                   <Icon

@@ -34,13 +34,8 @@
     "icons": {
       "backend": [
         {
-          "name": "Python",
-          "class": "devicon-python-plain",
-          "level": "95"
-        },
-        {
-          "name": "Flask",
-          "class": "devicon-flask-original",
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
           "level": "95"
         },
         {
