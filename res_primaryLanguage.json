@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "description": "Sr. Software Engineer con más de 9 años de experiencia, enfocado en las mejores prácticas de programación y arquitecturas modernas. Experto en desarrollar soluciones integrales que abarcan el diseño e implementación de sistemas robustos. Amplia experiencia en el diseño de arquitecturas escalables y el uso de metodologías ágiles. Destacado por mi habilidad para optimizar el rendimiento y la eficiencia de las aplicaciones web, garantizando la entrega de productos de alta calidad.",
+    "description": "Software Engineer con más de 9 años de experiencia, enfocado en las mejores prácticas de programación y arquitecturas modernas. Experto en desarrollar soluciones integrales que abarcan el diseño e implementación de sistemas robustos. Amplia experiencia en el diseño de arquitecturas escalables y el uso de metodologías ágiles. Destacado por mi habilidad para optimizar el rendimiento y la eficiencia de las aplicaciones web, garantizando la entrega de productos de alta calidad.",
     "segments": {
       "database": "✅ Capacidad de análisis, definición y optimización de bases de datos SQL y NoSQL.",
       "back": "✅ En el desarrollo back-end, uso principalmente Node, Nest, PHP, Laravel.",
@@ -61,7 +61,7 @@
     },
     {
       "company": "KYCredit",
-      "title": "Sr. Full-Stack Developer",
+      "title": "Ssr. Full-Stack Developer",
       "years": "feb. 2019 - feb. 2022 · 3años 1 mes",
       "technologies": [
         "MySQL",
@@ -104,7 +104,7 @@
     },
     {
       "company": "Dindon",
-      "title": "Ssr. Full-Stack Developer",
+      "title": "Jr. Full-Stack Developer",
       "years": "sep. 2016 - sep. 2017 · 1 año 1 mes",
       "technologies": [
         "MySQL",
