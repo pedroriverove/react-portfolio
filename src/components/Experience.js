@@ -40,6 +40,14 @@ class Experience extends Component {
                         >
                             {work.company}
                         </h4>
+                        <a
+                            className="company-link"
+                            href={work.link}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            {work.link}
+                        </a>
                         <div style={{textAlign: "left", marginTop: "15px"}}>{tech}</div>
                     </VerticalTimelineElement>
                 );

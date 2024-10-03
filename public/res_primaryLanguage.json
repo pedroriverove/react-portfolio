@@ -19,6 +19,7 @@
   "experience": [
     {
       "company": "Crediminuto",
+      "link": "https://www.crediminuto.com.co",
       "title": "Tech Lead",
       "years": "feb. 2023 - sep. 2024 · 1 año 8 mes",
       "technologies": [
@@ -40,6 +41,7 @@
     },
     {
       "company": "Keiron",
+      "link": "https://www.keironsalud.com",
       "title": "Ssr. Full-Stack Developer",
       "years": "mar. 2022 - dic. 2022 · 10 meses",
       "technologies": [
@@ -61,6 +63,7 @@
     },
     {
       "company": "KYCredit",
+      "link": "https://www.kycredit.com",
       "title": "Ssr. Full-Stack Developer",
       "years": "feb. 2019 - feb. 2022 · 3años 1 mes",
       "technologies": [
@@ -118,6 +121,7 @@
     },
     {
       "company": "Gobierno del Distrito Capital",
+      "link": "https://www.gdc.gob.ve",
       "title": "Jr. PHP Developer",
       "years": "abr. 2015 - sep. 2016 · 1 año 6 meses",
       "technologies": [
