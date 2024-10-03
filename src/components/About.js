@@ -15,7 +15,8 @@ class About extends Component {
             var profilepic = "images/" + this.props.sharedBasicInfo.image;
         }
         if (this.props.resumeBasicInfo) {
-            var about = this.props.resumeBasicInfo.description;
+            var about = this.props.resumeBasicInfo.section_name.about;
+            var description = this.props.resumeBasicInfo.description;
             var database = this.props.resumeBasicInfo.segments.database;
             var back = this.props.resumeBasicInfo.segments.back;
             var front = this.props.resumeBasicInfo.segments.front;
@@ -23,14 +24,13 @@ class About extends Component {
             var solid = this.props.resumeBasicInfo.segments.solid;
             var scrum = this.props.resumeBasicInfo.segments.scrum;
             var organize = this.props.resumeBasicInfo.segments.organize;
-            var sectionName = this.props.resumeBasicInfo.section_name.about;
         }
 
         return (
             <section id="about">
                 <div className="col-md-12">
                     <h1 style={{color: "black"}}>
-                        <span>{sectionName}</span>
+                        <span>{about}</span>
                     </h1>
                     <div className="row justify-content-center mx-auto mb-5">
                         <div className="col-md-4 text-center">
@@ -108,7 +108,7 @@ class About extends Component {
                                     >
                                         <br/>
                                         <br/>
-                                        {about}
+                                        {description}
                                         <br/>
                                         <br/>
                                         {database}

@@ -172,24 +172,54 @@ header h1 {
 
 .polaroid img {
   display: block;
-  max-width: 200px;
+  max-width: 100%; /* Para que la imagen se ajuste al contenedor */
+  height: auto; /* Mantiene la proporción de la imagen */
+  margin: 0 auto; /* Centra la imagen horizontalmente */
 }
 
 .polaroid span {
   background: #ffffff;
   display: inline-block;
-  margin: 55px 75px 30px;
-  padding: 15px 15px 30px;
+  margin: 2.7rem 4.5rem 1.8rem;
+  padding: 0.9rem 0.9rem 1.8rem;
   text-align: center;
   text-decoration: none;
-  -webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
-  -moz-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
-  -webkit-transition: all .20s linear;
-  -moz-transition: all .20s linear;
-  transition: all .20s linear;
+  -webkit-box-shadow: 0 3.6px 5.4px rgba(0, 0, 0, .3);
+  -moz-box-shadow: 0 3.6px 5.4px rgba(0, 0, 0, .3);
+  box-shadow: 0 3.6px 5.4px rgba(0, 0, 0, .3);
+  -webkit-transition: all .18s linear;
+  -moz-transition: all .18s linear;
+  transition: all .18s linear;
   z-index: 0;
   position: relative;
+  max-width: 600px;
+}
+
+@media (width <= 768px) {
+  .polaroid span {
+    margin: 1.8rem 1.8rem 1.35rem;
+    padding: 0.9rem;
+  }
+}
+
+@media (width <= 480px) {
+  .polaroid span {
+    margin: 1.6rem;
+    padding: 0.95rem;
+  }
+}
+
+@media (width >= 1200px) {
+  .polaroid span {
+    max-width: 50%;
+  }
+}
+
+@media (width >= 1600px) {
+  .polaroid span {
+    max-width: 40%;
+    margin: 2rem auto;
+  }
 }
 
 .link-href {
@@ -389,4 +419,16 @@ footer a:focus {
 .social-links {
   margin-top: 50px;
   font-size: 22px;
+}
+
+.company-link {
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
+}
+
+.company-link:hover {
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
 }
