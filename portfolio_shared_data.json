@@ -34,16 +34,6 @@
     "icons": {
       "backend": [
         {
-          "name": "Node",
-          "class": "devicon-nodejs-plain",
-          "level": "95"
-        },
-        {
-          "name": "Nest",
-          "class": "devicon-nestjs-original",
-          "level": "95"
-        },
-        {
           "name": "PHP",
           "class": "devicon-php-plain",
           "level": "95"
@@ -51,6 +41,26 @@
         {
           "name": "Laravel",
           "class": "devicon-laravel-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-original",
+          "level": "95"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "95"
+        },
+        {
+          "name": "Nest",
+          "class": "devicon-nestjs-original",
           "level": "95"
         }
       ],
@@ -109,28 +119,6 @@
         }
       ],
       "frontend": {
-        "basic": [
-          {
-            "name": "HTML",
-            "class": "devicon-html5-plain",
-            "level": "95"
-          },
-          {
-            "name": "CSS",
-            "class": "devicon-css3-plain",
-            "level": "95"
-          },
-          {
-            "name": "Bootstrap",
-            "class": "devicon-bootstrap-plain",
-            "level": "80"
-          },
-          {
-            "name": "Tailwind",
-            "class": "devicon-tailwindcss-plain",
-            "level": "80"
-          }
-        ],
         "advanced": [
           {
             "name": "JavaScript",
@@ -156,11 +144,28 @@
             "name": "React",
             "class": "devicon-react-original",
             "level": "95"
+          }
+        ],
+        "basic": [
+          {
+            "name": "HTML",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "name": "Next",
-            "class": "devicon-react-original",
+            "name": "CSS",
+            "class": "devicon-css3-plain",
             "level": "95"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain",
+            "level": "80"
+          },
+          {
+            "name": "Tailwind",
+            "class": "devicon-tailwindcss-plain",
+            "level": "80"
           }
         ]
       },
