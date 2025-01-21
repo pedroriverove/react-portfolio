@@ -1,8 +1,10 @@
 import React, {Component} from "react";
+import phpIcon from "@iconify/icons-logos/php";
 import laravelSolid from "@iconify/icons-logos/laravel";
+import pythonIcon from "@iconify/icons-logos/python";
+import flaskIcon from "@iconify/icons-logos/flask";
 import nodeIcon from "@iconify/icons-logos/nodejs";
 import nestIcon from "@iconify/icons-logos/nestjs";
-import phpIcon from "@iconify/icons-logos/php";
 import scriptIcon from "@iconify/icons-logos/javascript";
 import typeIcon from "@iconify/icons-logos/typescript-icon-round";
 import vueIcon from '@iconify/icons-logos/vue';
@@ -42,19 +44,27 @@ class About extends Component {
                                       className="img-fluid"
                                   />
                                   <Icon
-                                      icon={nodeIcon}
-                                      style={{fontSize: "200%", margin: "10% 5% 0 5%"}}
-                                  />
-                                  <Icon
-                                      icon={nestIcon}
-                                      style={{fontSize: "200%", margin: "10% 5% 0 5%"}}
-                                  />
-                                  <Icon
                                       icon={phpIcon}
                                       style={{fontSize: "200%", margin: "10% 5% 0 5%"}}
                                   />
                                   <Icon
                                       icon={laravelSolid}
+                                      style={{fontSize: "200%", margin: "10% 5% 0 5%"}}
+                                  />
+                                  <Icon
+                                      icon={pythonIcon}
+                                      style={{fontSize: "200%", margin: "10% 5% 0 5%"}}
+                                  />
+                                  <Icon
+                                      icon={flaskIcon}
+                                      style={{fontSize: "200%", margin: "10% 5% 0 5%"}}
+                                  />
+                                  <Icon
+                                      icon={nodeIcon}
+                                      style={{fontSize: "200%", margin: "10% 5% 0 5%"}}
+                                  />
+                                  <Icon
+                                      icon={nestIcon}
                                       style={{fontSize: "200%", margin: "10% 5% 0 5%"}}
                                   />
                                   <Icon

@@ -23,8 +23,8 @@ class Skills extends Component {
 			var backend = this.props.sharedSkills.icons.backend.map(renderSkill);
 			var databases = this.props.sharedSkills.icons.databases.map(renderSkill);
 			var devops = this.props.sharedSkills.icons.devops.map(renderSkill);
+			var frontendAdvanced = this.props.sharedSkills.icons.frontend.advanced.map(renderSkill);
 			var frontendBasic = this.props.sharedSkills.icons.frontend.basic.map(renderSkill);
-			var frontendAdvanced = this.props.sharedSkills.icons.frontend.advanced.map(renderSkill)
 			var git = this.props.sharedSkills.icons.git.map(renderSkill);
 		}
 
@@ -52,8 +52,8 @@ class Skills extends Component {
 						<h2>
 							<span className="text-white">Front-end</span>
 						</h2>
-						<ul className="list-inline mx-auto skill-icon">{frontendBasic}</ul>
 						<ul className="list-inline mx-auto skill-icon">{frontendAdvanced}</ul>
+						<ul className="list-inline mx-auto skill-icon">{frontendBasic}</ul>
 					</div>
 					<div className="col-md-12 text-center pt-3">
 						<h2>
