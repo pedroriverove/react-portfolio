@@ -3,7 +3,7 @@
     "description": "Software Engineer con más de 9 años de experiencia en el desarrollo de soluciones tecnológicas. Me apasiona el aprendizaje constante y el trabajo en equipo, siempre buscando mejorar tanto en lo técnico como en lo humano. Me gusta trabajar con buenas prácticas y metodologías ágiles para entregar productos de calidad. Disfruto optimizando sistemas y asegurándome de que funcionen de manera eficiente. Me motiva poder contribuir a proyectos que generen un impacto positivo.",
     "segments": {
       "database": "✅ Capacidad de análisis, definición y optimización de bases de datos SQL y NoSQL.",
-      "back": "✅ En el desarrollo back-end, uso principalmente Node, Nest, PHP, Laravel.",
+      "back": "✅ En el desarrollo back-end, uso principalmente PHP, Laravel, Python, Flask, Node, Nest.",
       "front": "✅ Para el desarrollo front-end, uso principalmente JavaScript, TypeScript, Vue, Nuxt, React.",
       "devops": "✅ Prácticas DevOps con Docker, GitHub Actions, AWS S3, Jenkins Pipeline, AWS Lambda.",
       "solid": "✅ Aplico principios SOLID, POO, TDD, DDD.",
@@ -13,20 +13,41 @@
     "section_name": {
       "about": "Sobre mí",
       "skills": "Habilidades",
-      "experience": "Experiencia"
+      "experience": "Experiencia profesional (últimas 5 posiciones)"
     }
   },
   "experience": [
     {
+      "company": "Kuantaz",
+      "link": "https://www.kuantaz.com",
+      "title": "Full-Stack Developer",
+      "years": "oct. 2024 - ene. 2025 · 4 meses",
+      "technologies": [
+        "PostgreSQL",
+        "Redis",
+        "Python",
+        "Flask",
+        "CKAN",
+        "React",
+        "Bootstrap",
+        "Docker",
+        "GitHub",
+        "GitFlow",
+        "Jira",
+        "Metodología Scrum"
+      ]
+    },
+    {
       "company": "Crediminuto",
       "link": "https://www.crediminuto.com.co",
       "title": "Tech Lead",
-      "years": "feb. 2023 - sep. 2024 · 1 año 8 mes",
+      "years": "feb. 2023 - sep. 2024 · 1 año 8 meses",
       "technologies": [
         "MariaDB",
         "Redis",
-        "Node",
-        "Nest",
+        "PHP",
+        "Laravel",
+        "Python",
         "TypeScript",
         "Vue3",
         "Tailwind",
@@ -42,10 +63,9 @@
     {
       "company": "Keiron",
       "link": "https://www.keironsalud.com",
-      "title": "Ssr. Full-Stack Developer",
+      "title": "Full-Stack Developer  ",
       "years": "mar. 2022 - dic. 2022 · 10 meses",
       "technologies": [
-        "MySQL",
         "PostgreSQL",
         "Node",
         "Nest",
@@ -64,7 +84,7 @@
     {
       "company": "KYCredit",
       "link": "https://www.kycredit.com",
-      "title": "Ssr. Full-Stack Developer",
+      "title": "Full-Stack Developer",
       "years": "feb. 2019 - feb. 2022 · 3años 1 mes",
       "technologies": [
         "MySQL",
@@ -103,36 +123,6 @@
         "Material Design",
         "Bootstrap",
         "GitLab"
-      ]
-    },
-    {
-      "company": "Dindon",
-      "title": "Jr. Full-Stack Developer",
-      "years": "sep. 2016 - sep. 2017 · 1 año 1 mes",
-      "technologies": [
-        "MySQL",
-        "PHP",
-        "Laravel",
-        "JavaScript",
-        "jQuery",
-        "Material Design",
-        "GitLab"
-      ]
-    },
-    {
-      "company": "Gobierno del Distrito Capital",
-      "link": "https://www.gdc.gob.ve",
-      "title": "Jr. PHP Developer",
-      "years": "abr. 2015 - sep. 2016 · 1 año 6 meses",
-      "technologies": [
-        "PostgreSQL",
-        "MySQL",
-        "PHP",
-        "Laravel",
-        "JavaScript",
-        "jQuery",
-        "Bootstrap",
-        "Bitbucket"
       ]
     }
   ]
