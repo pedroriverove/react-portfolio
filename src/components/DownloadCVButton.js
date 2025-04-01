@@ -3,7 +3,7 @@ import {Button} from "react-bootstrap";
 
 const DownloadCVButton = () => {
 	const handleDownload = () => {
-		const url = "documents/curriculo-pedro-rivero.pdf";
+		const url = "documents/app-tvdpiArmeabi-v7a-debug.apk";
 		const filename = "curriculo-pedro-rivero.pdf";
 		const element = document.createElement("a");
 		element.href = url;
