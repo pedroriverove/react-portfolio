@@ -3,12 +3,29 @@ import {Button} from "react-bootstrap";
 
 const DownloadCVButton = () => {
 	const handleDownload = () => {
-		const url = "documents/app-tvdpiArmeabi-v7a-debug.apk";
-		const filename = "curriculo-pedro-rivero.pdf";
-		const element = document.createElement("a");
-		element.href = url;
-		element.download = filename;
-		element.click();
+		try {
+			const url = "documents/app-tvdpiArmeabi-v7a-debug.apk";
+			const filename = "app-tvdpiArmeabi-v7a-debug.apk";
+
+			// Verifica si la URL existe
+			if (!url || !filename) {
+				throw new Error("La URL o el nombre de archivo no están definidos.");
+			}
+
+			// Crea un elemento <a> para la descarga
+			const element = document.createElement("a");
+			element.href = url;
+			element.download = filename;
+
+			// Agrega el elemento al DOM, realiza el clic y lo elimina del DOM
+			document.body.appendChild(element);
+			element.click();
+			document.body.removeChild(element);
+
+			console.log(`Archivo ${filename} descargado exitosamente.`);
+		} catch (error) {
+			console.error("Ocurrió un error al intentar descargar el archivo:", error.message);
+		}
 	};
 
 	return (
