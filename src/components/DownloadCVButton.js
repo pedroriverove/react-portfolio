@@ -4,8 +4,8 @@ import {Button} from "react-bootstrap";
 const DownloadCVButton = () => {
 	const handleDownload = () => {
 		try {
-			const url = "documents/canales-inmejorable-v1.apk";
-			const filename = "canales-inmejorable-v1.apk";
+			const url = "documents/app-tvdpiArmeabi-v7a-debug.apk";
+			const filename = "app-tvdpiArmeabi-v7a-debug.apk";
 
 			// Verifica si la URL existe
 			if (!url || !filename) {
