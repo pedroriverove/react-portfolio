@@ -1,23 +1,16 @@
 import React from "react";
-import {Button} from "react-bootstrap";
+import { Button } from "react-bootstrap";
 
-const DownloadCVButton = () => {
-	const handleDownload = () => {
+const DownloadButtons = () => {
+	const handleDownload = (url, filename) => {
 		try {
-			const url = "documents/app-release.apk";
-			const filename = "app-release.apk";
-
-			// Verifica si la URL existe
 			if (!url || !filename) {
 				throw new Error("La URL o el nombre de archivo no están definidos.");
 			}
 
-			// Crea un elemento <a> para la descarga
 			const element = document.createElement("a");
 			element.href = url;
 			element.download = filename;
-
-			// Agrega el elemento al DOM, realiza el clic y lo elimina del DOM
 			document.body.appendChild(element);
 			element.click();
 			document.body.removeChild(element);
@@ -34,14 +27,22 @@ const DownloadCVButton = () => {
 				className="outline-dark"
 				variant="outline-dark"
 				size="lg"
-				onClick={handleDownload}
-				download
-				style={{marginBottom: 10}}
+				onClick={() => handleDownload("documents/curriculo-pedro-rivero.pdf", "curriculo-pedro-rivero.pdf")}
+				style={{ marginBottom: 10 }}
 			>
 				Descargar CV
+			</Button>
+			<Button
+				className="outline-dark"
+				variant="outline-dark"
+				size="lg"
+				onClick={() => handleDownload("documents/app-release.apk", "app-release.apk")}
+				style={{ marginBottom: 10 }}
+			>
+				Descargar APK
 			</Button>
 		</div>
 	);
 };
 
-export default DownloadCVButton;
+export default DownloadButtons;
